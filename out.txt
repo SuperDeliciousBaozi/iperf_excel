@@ -1,0 +1,14 @@
+------------------------------------------------------------
+Server listening on TCP port 80
+TCP window size:  512 Byte
+------------------------------------------------------------
+------------------------------------------------------------
+Client connecting to check-test, TCP port 80
+TCP window size:  512 Byte
+------------------------------------------------------------
+[  6] local 192.168.1.19 port 58908 connected with 10.1.112.44 port 80
+[  7] local 192.168.1.19 port 80 connected with 10.1.112.44 port 36724
+[ ID] Interval       Transfer     Bandwidth
+[  7]  0.0-20.0 sec   162 MBytes  67.6 Mbits/sec
+[  6]  0.0-20.2 sec  5.38 MBytes  2.24 Mbits/sec
+
